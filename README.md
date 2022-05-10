@@ -1,5 +1,9 @@
-### Hi there 👋
+Hello!
 
+My name is Joram Kroon and I'm a Full Stack Web Developer.
+At the Codaisseur Bootcamp I've learned a lot about Javascript, React and much more
+
+I love to hack stuff and maximize features. Build robots to conquer the world.
 <!--
 **Joram3000/Joram3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
